@@ -1,0 +1,1 @@
+This is a simple project that creates a button to generate random colors when clicked. It's implemented using HTML, CSS, and JavaScript, making it a fun and educational way to explore the basics of web development.
